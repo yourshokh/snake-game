@@ -6,7 +6,7 @@ from scoreboard import Score
 screen=Screen()
 screen.setup(width=700, height=600)
 screen.bgcolor('black')
-screen.title('Iloncha')
+screen.title('Snake Game')
 screen.tracer(0)
 
 

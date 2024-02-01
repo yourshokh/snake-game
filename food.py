@@ -17,6 +17,6 @@ class Food(Turtle):
         self.x = random.randint(-310, 310)
         self.y = random.randint(-260, 260)
         self.goto(self.x, self.y)
-        # print("new") not here
+
         self.screen.update()
 
